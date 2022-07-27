@@ -1,1 +1,6 @@
-	git课程之1.2.3
+	git课程之1.2.3，快学完这一节了，还有最后一个命令
+将文件添加到git的缓冲区：git add <file>...
+查看当前状态：git status
+还没有上传到git的时候的重置：git reset
+上传到git：git commit -m "......"
+好了还剩两个命令
